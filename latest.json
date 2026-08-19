@@ -1,11 +1,12 @@
 {
   "schema": 1,
   "packageName": "it.kevinviaggi.kevin",
-  "versionCode": 402,
-  "versionName": "4.0.2-recovery-stable",
-  "apkUrl": "https://github.com/fred5593/kevin-updates/releases/download/v4.0.2/KEVIN-v4.0.2-RECOVERY-STABLE.apk",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "versionCode": 403,
+  "versionName": "4.0.3-github-bootstrap",
+  "apkUrl": "https://github.com/fred5593/kevin-updates/releases/download/v4.0.3/KEVIN-v4.0.3-GITHUB-BOOTSTRAP.apk",
+  "sha256": "c57f8ad1146dd1f652f891cd5711cdd58b05ee4f0fb75b99acf91ff23149ba6d",
+  "size": 112678313,
   "minAndroidSdk": 26,
   "mandatory": false,
-  "notes": "Canale aggiornamenti KEVIN inizializzato."
+  "notes": "Bootstrap GitHub updater: KEVIN controlla e installa le release dal canale ufficiale senza Colab."
 }
