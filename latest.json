@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "packageName": "it.kevinviaggi.kevin",
-  "versionCode": 404,
-  "versionName": "4.0.4-updater-validation",
-  "apkUrl": "https://github.com/fred5593/kevin-updates/releases/download/v4.0.4/KEVIN-v4.0.4-UPDATER-VALIDATION.apk",
-  "sha256": "c0914aaf0b623cbe0fb3bfd0f8ce067a370bb7b7356473e8a2817198b2f04feb",
-  "size": 112678289,
+  "versionCode": 405,
+  "versionName": "4.0.5-curated-journeys",
+  "apkUrl": "https://github.com/fred5593/kevin-updates/releases/download/v4.0.5/KEVIN-v4.0.5-CURATED-JOURNEYS.apk",
+  "sha256": "83a6b2c90c1d134aa10ac75d71cb268a35d9eeae0d6bd4fc1ddc471fbb35d573",
+  "size": 112682733,
   "minAndroidSdk": 26,
   "mandatory": false,
-  "notes": "Collaudo aggiornamenti in app senza modifiche funzionali."
+  "notes": "Itinerari riprogettati: meno tappe ma migliori, niente hotel, ospedali, punti generici o doppioni. Anche la schermata aggiornamenti ora è più semplice e riporta Kevin con lo zaino."
 }
