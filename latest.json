@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "packageName": "it.kevinviaggi.kevin",
-  "versionCode": 412,
-  "versionName": "4.1.2-home-experience",
-  "apkUrl": "https://github.com/fred5593/kevin-updates/releases/download/v4.1.2/KEVIN-v4.1.2-HOME-EXPERIENCE.apk",
-  "sha256": "1e96fd3e173b08d8a8943b78cc2276421a4f72c8269ea87c04ff97902e32f8cb",
-  "size": 113739317,
+  "versionCode": 420,
+  "versionName": "4.2.0-product-consolidation",
+  "apkUrl": "https://github.com/fred5593/kevin-updates/releases/download/v4.2.0/KEVIN-v4.2.0-PRODUCT-CONSOLIDATION.apk",
+  "sha256": "e73daf9144a411f616a71177fe322cf733e4d63ff5e179ea5926485535644d3b",
+  "size": 113742625,
   "minAndroidSdk": 26,
   "mandatory": false,
-  "notes": "Nuova Home scenografica: Kevin intero con zaino sempre nella hero, countdown protagonista e leggibile, CTA più chiare. Mantiene il ripristino funzioni e la ricerca Strumenti della 4.1.1."
+  "notes": "KEVIN 4.2 consolida il prodotto: countdown più forte e leggibile, Kevin Hub contestuale dal pulsante centrale, Home adattata alla fase del viaggio, contenuti non più coperti dalla barra inferiore, Journey e strumenti ripristinati e verificati."
 }
