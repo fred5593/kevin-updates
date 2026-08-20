@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "packageName": "it.kevinviaggi.kevin",
-  "versionCode": 420,
-  "versionName": "4.2.0-product-consolidation",
-  "apkUrl": "https://github.com/fred5593/kevin-updates/releases/download/v4.2.0/KEVIN-v4.2.0-PRODUCT-CONSOLIDATION.apk",
-  "sha256": "e73daf9144a411f616a71177fe322cf733e4d63ff5e179ea5926485535644d3b",
-  "size": 113742625,
+  "versionCode": 421,
+  "versionName": "4.2.1-canonical-stable",
+  "apkUrl": "https://github.com/fred5593/kevin-updates/releases/download/v4.2.1/KEVIN-v4.2.1-CANONICAL-STABLE.apk",
+  "sha256": "3188f1a36dd98e6a555a3c50bdf5675d470aae27baf9d381790270cad55225da",
+  "size": 112427165,
   "minAndroidSdk": 26,
   "mandatory": false,
-  "notes": "KEVIN 4.2 consolida il prodotto: countdown più forte e leggibile, Kevin Hub contestuale dal pulsante centrale, Home adattata alla fase del viaggio, contenuti non più coperti dalla barra inferiore, Journey e strumenti ripristinati e verificati."
+  "notes": "KEVIN 4.2.1 introduce una base stabile e più completa: Flight Day, Hotel Home Base offline, piano aeroporto collegato al volo, Journey più affidabile, condivisione e calendario Android, testi e navigazione corretti e itinerari di qualità superiore."
 }
