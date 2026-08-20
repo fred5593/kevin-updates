@@ -4,9 +4,9 @@
   "versionCode": 411,
   "versionName": "4.1.1-ux-restore",
   "apkUrl": "https://github.com/fred5593/kevin-updates/releases/download/v4.1.1/KEVIN-v4.1.1-UX-RESTORE.apk",
-  "sha256": "7bcfbdc3da12594804f340f1a581545b6618a6dd665bb4e6ca1a5c375442c87e",
-  "size": 113737161,
+  "sha256": "7e3f07245f36aab0b4f373be96cfc8d25ec2744d272ad035caeaf35adeb7a8b7",
+  "size": 113737225,
   "minAndroidSdk": 26,
   "mandatory": false,
-  "notes": "Home più chiara e meno ripetitiva; Journey compatto prima della partenza; briefing riprogettato; menu rinominati; Strumenti con ricerca e funzioni avanzate nuovamente visibili. Corretto anche il meteo mancante nelle info rapide."
+  "notes": "Home più utile e meno ripetitiva; Journey compatto prima della partenza; briefing riprogettato; Strumenti con ricerca e funzioni avanzate visibili; corretti meteo rapido e testi del menu."
 }
