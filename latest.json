@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "packageName": "it.kevinviaggi.kevin",
-  "versionCode": 410,
-  "versionName": "4.1.0-master-candidate2",
-  "apkUrl": "https://github.com/fred5593/kevin-updates/releases/download/v4.1.0-candidate2/KEVIN-v4.1.0-MASTER-CANDIDATE2.apk",
-  "sha256": "6030d6feb138b3152323852b9e8e9c1f95058c0b6b082ebeb2e316e41f61ec14",
-  "size": 113734993,
+  "versionCode": 411,
+  "versionName": "4.1.1-ux-restore",
+  "apkUrl": "https://github.com/fred5593/kevin-updates/releases/download/v4.1.1/KEVIN-v4.1.1-UX-RESTORE.apk",
+  "sha256": "7bcfbdc3da12594804f340f1a581545b6618a6dd665bb4e6ca1a5c375442c87e",
+  "size": 113737161,
   "minAndroidSdk": 26,
   "mandatory": false,
-  "notes": "Nuova esperienza KEVIN Journey: mascotte con zaino, Journey Replay, mappa e luoghi vissuti, Airport Assistant e nuova base per rilevare l’arrivo reale e costruire le statistiche del viaggio."
+  "notes": "Home più chiara e meno ripetitiva; Journey compatto prima della partenza; briefing riprogettato; menu rinominati; Strumenti con ricerca e funzioni avanzate nuovamente visibili. Corretto anche il meteo mancante nelle info rapide."
 }
